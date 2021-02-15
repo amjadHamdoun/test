@@ -1,0 +1,28 @@
+{
+  "name": "company Name",
+  "Email": "Email",
+  "Enter your Email": "Enter your Email",
+  "Password": "Password",
+  "Enter your Password": "Enter your Password",
+  "Remember me": "Remember me",
+  "Forogot Password": "Forogot Password?",
+  "Confirm password": "Confirm password",
+  "Re-enter your password": "Re-enter your password",
+  "Log in": "Log in",
+  "Don’t have an Account": "Don't have an Account ",
+  "Sign Up": "Sign Up",
+  "Reset Password": "Reset Password",
+  "Send Code":  "Please enter your email and we will send you a code to return to your account",
+  "Please Enter your email": "Please Enter your email",
+  "Please Enter Valid Email": "Please Enter Valid Email",
+  "Please Enter your password": "Please Enter your password",
+  "Password is too short": "Password is too short",
+  "Passwords don't match": "Passwords don't match",
+  "Please Enter your name": "Please Enter your name",
+  "Please Enter your phone number": "Please Enter your phone number",
+  "Please Enter your address": "Please Enter your address",
+  "Have Account": " Have Account?"
+
+
+
+}
